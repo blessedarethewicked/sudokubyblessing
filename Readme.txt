@@ -10,6 +10,7 @@ open terminal in folder
 >>>> pip install virtualenv
 >>>> virtualenv env (makes the vertual folder)
 >>>> env\Scripts\activate
+>>>>FLASK_ENV=development (sets the debugger mode on)
 >>>> pip install flask flask-sqlalchemy 
 
 make the app.py file
@@ -27,16 +28,20 @@ make database
 >>>> db.create_all()
 git commands that i sued
 
-git init (initalises git)
-
-git add . (adds everythign in the reprocitory)
-git commit -m "" (commits and adds a comment)
-#
 i also used heroku
 (i had to restart the cmd )
 heroku commands
 
 heroku login
-heroku create 
-git remote - v (shows where we pushing to )
+pip install gunicorn
+pip freeze > requirements.txt
+touch Procfile 
+git init 
+git add .
+git commit -m "early access Sudoku solver"
+ 
+
+heroku create sudoku
+touch Procfile (web: gunicorn app:app)
+git remote -v (shows where we pushing to )
 git push heroku master

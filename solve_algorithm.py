@@ -33,7 +33,7 @@ def check_if_solved(grid):
     
    
                  
-grid = read_from_file.read_game_file()     
-Grid.draw_grid(grid)
-Grid.draw_grid_from_file(check_if_solved(grid))
+#grid = read_from_file.read_game_file()     
+#Grid.draw_grid(grid)
+#Grid.draw_grid_from_file(check_if_solved(grid))
 

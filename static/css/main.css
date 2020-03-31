@@ -1,7 +1,7 @@
 body{
 	margin: auto;
-	width: 261px;	
-	padding: 10px;
+	width: 265px;	
+	padding: 0px;
 	font-family:sans-serif;
 }
 .tg  {
@@ -54,7 +54,8 @@ a {
 	color: red;
 }
 #content {
-    width: 41%;
+    width: 66%;
+	color: red;
 }
 input[type=submit] {
 
@@ -84,4 +85,27 @@ input[type=”button”] {
 }
 img{
      padding: 0px 0px 0px 70px;
+}
+#puzzle{
+
+     color: red;
+     width: 50%;
+     padding: 0px 0px 0px 40px; 
+	 
+}
+input.f1{
+	#padding: 0px 50px 0px 40px; 
+	width: 98%;
+	text-align:center;
+	color: white;
+}
+button.btn{
+    width:98%;
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 3px 8px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
 }
