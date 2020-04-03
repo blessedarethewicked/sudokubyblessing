@@ -3,6 +3,18 @@ do not, and i can not stress this enough, get your hopes up.
 
 if you want a good laugh just have a read through of the code.
 you can tell it was made by someone who has no idea how to code
+
+the algorithm is custom made (by someone who doesnt even know how to play the game)
+which means it only works for the most basic puzzles 
+
+i got all there of my puzzles from 
+http://lipas.uwasa.fi/~timan/sudoku/
+i took all the puzzles that my algarithm could solve (the three easiest)
+and used those. 
+in the future i would like to make a new search  algorithm and add it in.
+also i wanna see if i can do anything about how is doesnt look the way i want it to in safari
+
+below is all the commands that i run in the terminal to get the final result.
 #################################################################
 my plan
 ok i needs a step by step on how to set up my ven
