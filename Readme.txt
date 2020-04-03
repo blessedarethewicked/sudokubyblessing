@@ -17,6 +17,10 @@ also i wanna see if i can do anything about how is doesnt look the way i want it
 i would also like to see if there is anything that i can do about the image at the bottom of 
 my screen not showing up.
 
+things to keep im mind
+when running this code in windows you need to change the URL in the base.html so that it says 
+static//main.css not static/main.css
+
 below is all the commands that i run in the terminal to get the final result.
 #################################################################
 my plan
