@@ -1,3 +1,10 @@
+you can check out the outcome from this project at https://sudokubyblessing.herokuapp.com/
+do not, and i can not stress this enough, get your hopes up.
+
+if you want a good laugh just have a read through of the code.
+you can tell it was made by someone who has no idea how to code
+#################################################################
+my plan
 ok i needs a step by step on how to set up my ven
 how to set up flask and all the depedancies 
 and set up a basic web 
